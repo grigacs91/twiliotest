@@ -2,7 +2,7 @@
 
 // Twilio credentials
 $accountSid = 'AC770eb6e5c1cf60f3e0b32a43238f1ea8';
-$authToken = '7837a6d03d6024ccc2300a598fe92374';
+$authToken = 'ff01acca218973ce715223718711bc33';
 
 // Message Service SID
 $messageServiceSid = 'MGacf67721d2a8089e7774a288620b0ef9';
